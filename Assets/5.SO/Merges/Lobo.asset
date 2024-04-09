@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b0cee3b68922141cca236acb98bb6d52, type: 3}
+  m_Name: Lobo
+  m_EditorClassIdentifier: 
+  a: {fileID: 11400000, guid: d76f9e4eea2827b4190ba748d32b74be, type: 2}
+  b: {fileID: 11400000, guid: 4de055b90d5debf41b9380e610081a49, type: 2}
+  resultado: {fileID: 11400000, guid: 240a482e06e3e7d4eabba58e94872195, type: 2}
+  descoberto: 0
+  count: 0

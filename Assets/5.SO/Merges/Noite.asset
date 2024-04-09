@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b0cee3b68922141cca236acb98bb6d52, type: 3}
+  m_Name: Noite
+  m_EditorClassIdentifier: 
+  a: {fileID: 11400000, guid: 5805e610ecc0a774387f3027af7ec2cc, type: 2}
+  b: {fileID: 11400000, guid: c95bf14394c3d0240b38b90e988bac1d, type: 2}
+  resultado: {fileID: 11400000, guid: b1159351526d67c4fa2d5049e86cc44e, type: 2}
+  descoberto: 0
+  count: 0

@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b0cee3b68922141cca236acb98bb6d52, type: 3}
+  m_Name: Amor
+  m_EditorClassIdentifier: 
+  a: {fileID: 11400000, guid: 2ef9e24031597254783faf31a2a7dc73, type: 2}
+  b: {fileID: 11400000, guid: 2ef9e24031597254783faf31a2a7dc73, type: 2}
+  resultado: {fileID: 11400000, guid: f1591d0bc4ac1af4692e23cdcaee5dd5, type: 2}
+  descoberto: 0
+  count: 0

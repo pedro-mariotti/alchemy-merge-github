@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b0cee3b68922141cca236acb98bb6d52, type: 3}
+  m_Name: CO2
+  m_EditorClassIdentifier: 
+  a: {fileID: 11400000, guid: 874cf036337924b4f8ae8b5e409e822f, type: 2}
+  b: {fileID: 11400000, guid: c54f7535654266f42b5f635909e87dfb, type: 2}
+  resultado: {fileID: 11400000, guid: 0e4e789f972a7ba43a6634282527b886, type: 2}
+  descoberto: 0
+  count: 0

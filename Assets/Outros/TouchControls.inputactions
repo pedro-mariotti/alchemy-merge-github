@@ -1,0 +1,54 @@
+{
+    "name": "TouchControls",
+    "maps": [
+        {
+            "name": "Base",
+            "id": "29d4d39b-aeaa-4552-9926-b0ede3d94efb",
+            "actions": [
+                {
+                    "name": "Toque",
+                    "type": "Button",
+                    "id": "ce258b9c-3369-40a1-b2ee-25b6b022f0c9",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "PosicaoToque",
+                    "type": "Value",
+                    "id": "f4a58a9b-d556-4809-ba26-0959525fe4a4",
+                    "expectedControlType": "Vector2",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "f11f1d8e-d087-4ecd-aac4-f100dc8eb5cd",
+                    "path": "<Touchscreen>/Press",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Toque",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "291b1709-3d66-404f-ac79-8d87ababc9f8",
+                    "path": "<Touchscreen>/primaryTouch/position",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "PosicaoToque",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

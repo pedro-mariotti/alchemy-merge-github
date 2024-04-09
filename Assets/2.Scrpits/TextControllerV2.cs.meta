@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1e1c5a27cf28b4791b1c5f35b84af6f6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - textInCanvaPrefab: {fileID: 1550534556937469936, guid: 0e75b76b8fb2541199e088752e980aff, type: 3}
+  - canvasObject: {instanceID: 0}
+  - textComponent: {instanceID: 0}
+  - textObject: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

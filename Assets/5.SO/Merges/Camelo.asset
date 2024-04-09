@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b0cee3b68922141cca236acb98bb6d52, type: 3}
+  m_Name: Camelo
+  m_EditorClassIdentifier: 
+  a: {fileID: 11400000, guid: b9abadb3eba1ec34a99d5b2a139b610f, type: 2}
+  b: {fileID: 11400000, guid: cae2911afcea0474a8120a889fdf8cf8, type: 2}
+  resultado: {fileID: 11400000, guid: 2fbe3e06b631c9a46b7b2f7a5ddeda9b, type: 2}
+  descoberto: 0
+  count: 0

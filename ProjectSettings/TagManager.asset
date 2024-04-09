@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Card
+  - azul
+  - amarelo
+  - verde
+  - fechar
+  - Trash
+  - Hint
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - wiki
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BG
+    uniqueID: 3203158823
+    locked: 0
+  - name: Tabuleiro
+    uniqueID: 443426475
+    locked: 0
+  - name: UI
+    uniqueID: 136917971
+    locked: 0
+  - name: Wiki
+    uniqueID: 431573027
+    locked: 0
+  - name: Overlay
+    uniqueID: 2798039293
+    locked: 0
